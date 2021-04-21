@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Match4Board">
+        <attr name="boardColor" format="color"/>
+        <attr name="lineBorderColor" format="color"/>
+        <attr name="lineFillColor" format="color"/>
+        <attr name="p1Color" format="color"/>
+        <attr name="p2Color" format="color"/>
+    </declare-styleable>
+</resources>

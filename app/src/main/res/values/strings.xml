@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Match4Game</string>
+
+    //Main Menu
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+
+    //Game
+    <string name="p1Header">PLAYER 1</string>
+    <string name="p2Header">PLAYER 2</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next:</string>
+
+    //Settings
+    <string name="p1Color">Player 1 Color:</string>
+    <string name="p2Color">Player 2 Color:</string>
+    <string name="volume">Volume:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Magenta</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Lime</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+</resources>
